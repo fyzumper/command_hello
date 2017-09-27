@@ -1,16 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
 #include <iostream>
 int main()
 {
@@ -30,6 +17,7 @@ int main()
 
 intweoiqo
  printf( "%d",a);
+ printf( "this is github");
  return 0;
 
 
