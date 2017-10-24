@@ -3,7 +3,7 @@ int main()
 {
  int a;
  a = 10;
-
+ yuiytiueri 171024
 
 
 
